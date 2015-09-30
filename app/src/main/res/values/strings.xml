@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FloatingLabels</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_name">Firstname</string>
+    <string name="last_name">Lastname</string>
+
+</resources>
